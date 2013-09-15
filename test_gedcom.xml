@@ -1,0 +1,19 @@
+<gedcom>
+	<indi id="@I1@">
+		<NAME>
+			Jamis Gordon /Buck/
+			<SURN>Buck</SURN>
+			<GIVN>Jamis Gordon</GIVN>
+		</NAME>
+		<SEX>M</SEX>
+		<DOG>
+			JAMIE
+			<SEX>W</SEX>
+			<LOCA>
+				CALI
+				<CITY>LA</CITY>
+				<AREA>626</AREA>
+			</LOCA>
+		</DOG>
+	</indi>
+</gedcom>

@@ -1,0 +1,11 @@
+0 @I1@ INDI
+1 NAME Jamis Gordon /Buck/
+2 SURN Buck
+2 GIVN Jamis Gordon
+1 SEX M
+1 DOG JAMIE
+2 SEX W
+2 LOCA CALI
+3 CITY LA
+3 AREA 626
+1 COOL
