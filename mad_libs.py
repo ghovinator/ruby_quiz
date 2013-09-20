@@ -54,5 +54,5 @@ def test():
         "This is right if really right on bugger bugger"
     
 if __name__ == "__main__":
-    #driver()
-    test()
+    driver()
+    #test()
